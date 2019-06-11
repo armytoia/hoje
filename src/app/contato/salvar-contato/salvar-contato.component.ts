@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Contato } from '../entidade/contato';
-import { AngularFireDatabase } from '@angular/fire/Database';
+import { AngularFireDatabase } from '@angular/fire/database';
 
 @Component({
   selector: 'app-salvar-contato',
